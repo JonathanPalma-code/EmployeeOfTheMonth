@@ -1,0 +1,11 @@
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\obj\Debug\netcoreapp3.1\EmployeeOfTheMonth.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\obj\Debug\netcoreapp3.1\EmployeeOfTheMonth.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\obj\Debug\netcoreapp3.1\EmployeeOfTheMonth.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.exe
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.deps.json
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.dll
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\bin\Debug\netcoreapp3.1\EmployeeOfTheMonth.pdb
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\obj\Debug\netcoreapp3.1\EmployeeOfTheMonth.dll
+C:\Users\jonat\Documents\C#\Projects\EmployeeOfTheMonth\EmployeeOfTheMonth\obj\Debug\netcoreapp3.1\EmployeeOfTheMonth.pdb
